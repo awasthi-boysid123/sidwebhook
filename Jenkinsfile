@@ -4,7 +4,7 @@ pipeline {
 	stages{
 	     stage('Fetch code'){
 	         steps{
-                 sh 'echo "build complete."'
+                    echo 'Now archieve'
 	         }
 	     }
 
