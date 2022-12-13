@@ -6,6 +6,7 @@ pipeline {
 	         steps{
                     echo 'Now archieve'
 		    echo 'Well done'
+		    echo 'hi'
 	         }
 	     }
 
