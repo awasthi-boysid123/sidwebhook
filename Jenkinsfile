@@ -5,6 +5,7 @@ pipeline {
 	     stage('Fetch code'){
 	         steps{
                     echo 'Now archieve'
+		    echo 'Well done'
 	         }
 	     }
 
